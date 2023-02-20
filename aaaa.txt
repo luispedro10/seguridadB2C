@@ -1,0 +1,15 @@
+my-api1 id:  79323a46-df7e-47a8-936e-63046e90b40e
+
+When your web application requests an access token for the web API,
+it should add this URI as the prefix for each scope that you define for the API. (tasks-api)
+
+Myapp = SPA
+
+335b6c64-be87-45d5-a875-4e924b6215e4 (Myapp)
+
+
+https://grupodb2c.onmicrosoft.com/tasks-api/tasks.read  (1)
+
+https://grupodb2c.onmicrosoft.com/tasks-api/tasks.write
+
+https://grupodb2c.onmicrosoft.com/tasks-api/tasks.read

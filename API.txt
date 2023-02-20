@@ -1,0 +1,8 @@
+API-my-api1 ID: 963c4f02-0f9a-474b-a445-83d12a2e9a04
+
+
+API-webapp1 ID: 32ebee6d-6912-41c1-9a5b-e2d44f0dc930
+
+secret value: ytd8Q~U_TXt13SWSkvo8-e1pj5_N6yG1VhJLFbEn
+
+read scope: https://grupodb2c.onmicrosoft.com/API-tasks-api/API-tasks.read
